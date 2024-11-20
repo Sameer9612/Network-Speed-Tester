@@ -1,3 +1,5 @@
+#Run The Command In CMD - pip install speedtest-cli
+
 import speedtest
 
 wifi = speedtest.Speedtest()
